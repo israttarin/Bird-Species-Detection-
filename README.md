@@ -1,0 +1,1 @@
+A Neural Network-based project program with Python that evaluated 67100 color image datasets to identify bird species. We used the Convolutional Neural Network (CNN) algorithm to classify 225 species. Kaggle datasets were gathered.
